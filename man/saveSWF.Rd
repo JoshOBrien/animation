@@ -1,3 +1,4 @@
+% Please edit documentation in R/saveSWF.R
 \name{saveSWF}
 \alias{saveSWF}
 \title{Convert images to Flash animations}

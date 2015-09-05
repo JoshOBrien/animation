@@ -7,6 +7,8 @@ BUG FIXES
   now the command is quoted by double quotes (based on an answer to
   http://stackoverflow.com/q/682799/559676) (thanks, Aaron Dodd)
 
+  o save*() functions should overwrite the output file (#50, #60).
+
 		  CHANGES IN animation VERSION 2.3
 
 NEW FEATURES
